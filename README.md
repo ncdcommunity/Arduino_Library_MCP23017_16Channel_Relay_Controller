@@ -3,7 +3,10 @@
 
 # MCP23017
 MCP23017 is a 16-Channel General Purpose SPDT Relay Controller Driver.
-This Device is available from www.ncd.io [SKU: MCP23017_I2CS]
+This Device is available from www.ncd.io 
+
+[SKU: MCP23017_I2CS]
+
 (https://store.ncd.io/product/16-channel-general-purpose-spdt-relay-controller-with-i2c-interface/)
 This Sample code can be used with Arduino.
 
